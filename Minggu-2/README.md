@@ -1,7 +1,5 @@
 # TUGAS PRAKTIKUM | MINGGU 2
 
-### Repository untuk menyimpan tugas konsep jaringan
-
     Nama		: Yasir Maarif
     NRP		: 3122600013
     Kelas		: 2 D4 Teknik Informatika
