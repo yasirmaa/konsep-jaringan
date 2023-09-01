@@ -96,14 +96,14 @@ Mencari flag beberapa gambar (JPEG) yang terdapat pada file http_witp_jpegs.cap
 ### 1. Buka file http_witp_jpegs.cap
 
 <div align="center">
-    <img src="assets/jpega awal.png" alt="Tampilan awal" width="70%">
+    <img src="assets/jpeg-awal.png" alt="Tampilan awal" width="70%">
     <p><strong>Gambar:</strong> Tampilan awal</p>
 </div>
 
 ### 2. Filter dengan menggunakan ctrl+f, kemudian cari HTTP. Maka akan tampil semua list dengan protocol http.
 
 <div align="center">
-    <img src="assets/jpega filter.png" alt="Fileter HTTP" width="70%">
+    <img src="assets/jpeg-filter.png" alt="Fileter HTTP" width="70%">
     <p><strong>Gambar:</strong> Fileter HTTP</p>
 </div>
 
