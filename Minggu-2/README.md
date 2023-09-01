@@ -110,11 +110,11 @@ Mencari flag beberapa gambar (JPEG) yang terdapat pada file http_witp_jpegs.cap
 ### 3. Cari semua packet dengan Info 200 OK (JPEG JFIF image)
 
 <div align="center">
-    <img src="assets/jpega-f1.png" alt="Fileter HTTP" width="70%">
+    <img src="assets/jpeg-f1.png" alt="Fileter HTTP" width="70%">
     <p><strong>Gambar:</strong> JPEG JFIF image</p>
 </div>
 <div align="center">
-    <img src="assets/jpega-f2.png" alt="Fileter HTTP" width="70%">
+    <img src="assets/jpeg-f2.png" alt="Fileter HTTP" width="70%">
     <p><strong>Gambar:</strong> JPEG JFIF image</p>
 </div>
 
