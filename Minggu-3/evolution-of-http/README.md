@@ -13,9 +13,10 @@
 HTTP berfungsi sebagai protokol permintaan-respons dalam model komputasi klien-server. Klien mengirimkan pesan permintaan HTTP ke server. Server yang menyediakan sumber daya seperti file HTML dan konten lainnya atau mengembalikan pesan respons ke klien. Respons tersebut berisi informasi status penyelesaian tentang permintaan dan mungkin juga berisi konten yang diminta di badan pesannya.
 
 <div align="center">
-    <img src="assets/http-version.png" alt="Flow graph bagian 1" width="70%">
-    <p><strong>Gambar:</strong> Perkembangan HTTP</p>
+    <img src="assets/http-evolution.jpg" alt="Flow graph bagian 1" width="70%">
+    <p><strong>Gambar:</strong> Evolution of HTTP</p>
 </div>
+
 **Berikut perkembangan http dari awal dibuat sampai saat ini:**
 
 ### 1. HTTP 0.9
@@ -56,6 +57,10 @@ HTTP berfungsi sebagai protokol permintaan-respons dalam model komputasi klien-s
 - HTTP 3.0 dirancang melalui QUIC (Quick UDP Internet Connections).
 - QUIC adalah protokol lapisan transport dengan multiplexing asli dan enkripsi bawaan. QUIC memberikan proses handshake yang cepat, selain mampu memitigasi masalah latensi pada koneksi yang lossy dan lambat.
 
+<div align="center">
+    <img src="assets/http-version.png" alt="Flow graph bagian 1" width="70%">
+    <p><strong>Gambar:</strong> Rangkuman Perkembangan HTTP</p>
+</div>
 #
 
 ## TCP Keep Alive dalam HTTP
