@@ -17,6 +17,7 @@ Dalam konteks ini, kita akan menjelajahi implementasi konkret dari topologi yang
 ## Keterangan tiap komponen
 
 **Router:** Setiap router memiliki dua antarmuka yang menghubungkan jaringan yang berbeda. Penjelasan :
+
 Router 1:
 
 - Antarmuka 0/0:
@@ -57,11 +58,11 @@ Switch 2:
 
 ## Hasil Tes ping
 
-- **pc 1 ke pc 2**
+- **pc 1 ke pc 2** <br>
   <img src="./assets/pc1-2.png">
 
-- **pc 1 ke pc 3**
+- **pc 1 ke pc 3** <br>
   <img src="./assets/pc1-3.png">
 
-- **pc 1 ke pc 4**
+- **pc 1 ke pc 4** <br>
   <img src="./assets/pc1-4.png">
