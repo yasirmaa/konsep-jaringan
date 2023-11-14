@@ -6,11 +6,6 @@
     Mata Kuliah	: Konsep Jaringan
     Dosen Pengampu	: Dr. Ferry Astika Saputra ST, M.Sc
 
-<div align="center">
-    <img src="./assets/The-Dynamic-Routing-Step.png" width="70%">
-    <p><strong>Gambar:</strong> Dynamic routing step</p>
-</div>
-
 Traceroute adalah salah satu cara pemecahan masalh jaringan yang berkerja dengan melacak rute jaringan dan menampilkannya di layar pengguna. Dengan begitu pengguna dapat memecahkan kendala jaringan serta melihat peringkat perantara mana saja yang telah menyebabkan masalah yang muncul.
 
 Dasar cara kerjanya adalah ketika Anda terhubung pada situs web, maka ada paket yang berisi informasi yang dikirim bolak- balik di antara komputer dan server. Paket informasi ini telah melalui banyak perangkat lain atau hop selama perjalanannya menuju ke perangkat komputer atau server Anda. Jadi dengan alat traceroute ini Anda dapat melacak rute mana saja yang dilewati paket informasi dan dari sinilah Anda dapat menemukan penyebab masalah tadi.
